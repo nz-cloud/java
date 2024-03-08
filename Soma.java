@@ -11,7 +11,6 @@ public class Soma {
         int n4 = sc.nextInt();
 
         int soma4 = n1 + n2 + n3 + n4;
-
         System.out.println("A soma desses 4 números é: " + soma4);
         sc.close();
 
