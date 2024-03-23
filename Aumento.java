@@ -10,8 +10,5 @@ public class Aumento {
             System.out.println("Ano: " + ano + " Porcentagem de aumento: " + porcAumento + " Aumento: " + aumento + " salario: "  +  salario);
             porcAumento *= 2;
         }
-
-
-
     }
 }
